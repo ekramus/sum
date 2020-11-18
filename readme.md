@@ -4,7 +4,7 @@ Write a program, that takes a number on the input and expresses all the differen
 
 ## Solution
 
-See implemented algorithm on [github - TBD!!!](https://git).
+See implemented algorithm on [https://github.com/ekramus/sum](https://github.com/ekramus/sum).
 
 Code is written in Python 3.8, venv is created using Poetry. To launch the script, follow steps bellow:
 
